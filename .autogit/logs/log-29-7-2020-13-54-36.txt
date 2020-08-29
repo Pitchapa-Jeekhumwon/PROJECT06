@@ -1,0 +1,31 @@
+-------------------- Auto-Git Log --------------------
+		Sat Aug 29 2020 13:54:36 GMT+0700 (Indochina Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.vue
+* src/components/Game.vue
+
+
+Created files:
+* .autogit/logs/log-29-7-2020-13-23-40.txt
+* public/img/1.png
+* public/img/10.png
+* public/img/11.png
+* public/img/12.png
+* public/img/13.png
+* public/img/2.png
+* public/img/3.png
+* public/img/4.png
+* public/img/5.png
+* public/img/6.png
+* public/img/7.png
+* public/img/8.png
+* public/img/9.png
+* src/assets/14.gif
+
+
+Deleted files:
+
+
+Renamed files:

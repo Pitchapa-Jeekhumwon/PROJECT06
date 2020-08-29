@@ -25,7 +25,7 @@ export default {
 }
 
 body { 
-  background-image: ;
+  background-image: url(https://cdn.lowgif.com/full/f7cd43ca020623e4-.gif);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
