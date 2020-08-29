@@ -75,7 +75,7 @@ export default {
         {
           name: "Yuta",
           hp: 500,
-          img:"https://lh3.googleusercontent.com/SI_hxHhbtmp1609Udkgv_YEzo6zENkqlsB2N8BJtl7J0VlY97rQKUhTcYpO0YOaSSaiStwEqISZ7IA4F0TiZNS2lna9QhA5d30vGmE0jVzp61y1PUxfNDqU6owe8bbsJ48x9EBbnFT-8yCLMdDbZJNw7flxRUa4z_BmJVI_pKdV3ONmydFCIOIsxrMqonHPWbSy6xzG3DPbEkRaVdlsq8mOvHzdb32_VHuUbXZtyRcqBT2XSvK3RVOIGnCiJlrbNMZu3tDuEeMGZXmALqjNjF9Af0Y6gS8d18KQfnBWB5F5oSlWGmL2D6p1gyi4NdTmYDxfe0ubUvYShyCG9L7xdcEcyDu9ZZsisufg8af2iBXTn1kvwUor1ntYbuL50laRdN7G45nIB9TtzeOFwktdPVTFeWBxvbN87AoZOWPGy7xpU5gZ3ti88NHMSGdV6ESjfvodaKQ6nxpcv7jvwUkuFoOcu7A7xf4XZBKc05Hg4h-ZUiNgyrpmTXm5RUezGe1ICQpW077Uo5GKydvQVWzgQUgYbNJT_rYGMbYFYwSrUeeaoODFSn5oVOqBJDh8MBeaFyPmygeGV_nBqEK4113BGre2r05WDWDkj7AcCf5JU6zHC-zNazL8GX3lXbWs2CoDnqk9Ew7k-iCbZEOu_7rlElhfPiZ8uE2UJjU6iTSTZrIXdohxcj5hzCw5g0qK4Lg=w442-h625-no?authuser=0",
+          img:"https://photos.app.goo.gl/w7PaxSiaJqin3DSj8",
         },
         {
           name: "Saito",
